@@ -1,8 +1,5 @@
-Przegląd literatury
-==================================
-
 Wydajność, skalowanie i replikacja
-------------------------------------
+====================================
 
 :Autorzy: - Mateusz Brokos
           - Szymon Blatkowski
